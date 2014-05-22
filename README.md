@@ -28,5 +28,5 @@ All of the data cleaning is done in one script, called "run_analysis.R". The scr
 9. Extracts only the measurements on mean and standard deviation from the merged data set using the grep function.
 10. Merges the extracted measurements with their corresponding subject and activity to make one large table
 11. Aggregates the data first by subject, then by activity. It finds the mean of each subject/activity combination.
-12. Writes the aggregated data into a .txt file and puts it into the working directory.  
+12. Writes the aggregated data into a text file called "CourseProject.txt" and puts it into the working directory.  
  
